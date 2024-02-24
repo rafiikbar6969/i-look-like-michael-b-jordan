@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url(06ccc5e30f77f6f372aebc8a7e9a5b42.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    font-weight: bolder;
+}
+img{
+    width: 500px;
+    height: 300px;
+}

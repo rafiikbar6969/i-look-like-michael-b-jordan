@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-image: url(iamge/06ccc5e30f77f6f372aebc8a7e9a5b42.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button {
+  position: absolute;
+  cursor: pointer;
+  padding: 10px 30px;
+  left: 700px;
+  transition: 0.5s;
+}
+
+.no{
+    margin-left: 100px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
