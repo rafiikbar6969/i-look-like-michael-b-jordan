@@ -14,6 +14,6 @@ no.addEventListener("mouseover", function () {
 
   no.style.left = i + "px";
   no.style.top = j + "px";
-  no.innerHTML = "come click me";
+  no.innerHTML = "harus maafin";
 });
 console.log(no);
